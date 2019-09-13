@@ -1,0 +1,118 @@
+/* display outside */
+.inline{
+    display: inline;
+}
+.block{
+    display:block;
+}
+.run-in{
+    display: run-in;
+}
+/* display inside */
+.flow-root{
+    display: flow-root;
+}
+.table{
+    display: table;
+}
+.flex{
+    display: flex;
+}
+.grid{
+    display: grid;
+}
+.ruby{
+    display: ruby;
+}
+/* combinaison valeur */
+/* display outside et display inside */
+.inline-table{
+    display: inline table;
+}
+.flex-run-in{
+    display: flex run-in;
+}
+
+/* Valeurs de type <display-listitem> */
+.list-item{
+    display:list-item;
+}
+.list-item-blcok{
+    display: list-item block;
+}
+.list-item-inline{
+    display: list-item inline;
+}
+.list-item-flow-root{
+    display: list-item flow-root;
+}
+.list-item-block-flow-root{
+    display: list-item block flow-root;
+}
+/* Valeurs de type <display-internal> */
+.table-row-group{
+    display: table-row-group;
+}
+.table-header-group{
+    display: table-header-group;
+}
+.table-footer-group{
+    display: table-footer-group;
+}
+.table-row{
+    display: table-row;
+}
+.table-cell{
+    display: table-cell;
+}
+.table-column-group{
+    display: table-column-group;
+}
+.table-column{
+    display: table-column;
+}
+.table-caption{
+    display: table-caption;
+}
+.ruby-base{
+    display: ruby-base;
+}
+.ruby-text{
+    display: ruby-text;
+}
+.ruby-base-container{
+    display: ruby-base-container;
+}
+.ruby-text-container{
+    display: ruby-text-container;
+}
+/* Valeurs de type <display-box> */
+.contents{
+    display: contents;
+}
+.none{
+    display: none;
+}
+/* Valeurs de type <display-legacy> */
+.inline-block{
+    display: inline-block;
+}
+.inline-table{
+    display: inline-table;
+}
+.inline-flex{
+    display: inline-flex;
+}
+.inline-grid{
+    display: inline-grid;
+}
+/* Valeurs globales */
+.inherit{
+    display: inherit;
+}
+.initial{
+    display: initial;
+}
+.unset{
+    display: unset;
+}
